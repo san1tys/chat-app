@@ -34,3 +34,7 @@ npm run build
 ```shell
 npm start
 ```
+
+## 🔗 Demo
+
+👉 [Open demo](https://chat-app-9oru.onrender.com)
